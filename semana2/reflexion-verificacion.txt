@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: ANGEL MAURICIO TORRES POSADA
+Fecha:1/MAYO/2026
+Nombre de la rama:ANGEL_MAURICIO_TORRES_POSADA
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -12,3 +12,20 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
 Respuesta:
+
+No se debe hacer llegar ningún tipo de información, si no es verificada, 
+ya que puede ser falsa o incompleta o puede encontrarse en una situación de sacado de contexto, 
+lo que puede generarle desinformación e incluso confusión. En la era digital, 
+un solo mensaje erróneo puede llegar a las mentes de muchas personas en cuestión de segundos. 
+La verificación responsable permite que una comunidad esté protegida porque se ratifica que aquello 
+que está circulando por ella es fiable y evita que puedan ser compartidos rumores que pueden causar 
+temores, conflictos o decisiones erróneas. A su vez, se nos anima a disponer una cultura de pensamiento 
+crítico y de responsabilidad colectiva.
+Al mismo tiempo, la accesibilidad puede considerarse como un mecanismo de inclusión digital 
+porque garantiza el acceso a la información y la participación en espacios digitales a todas 
+las personas independientemente de sus capacidades o condiciones, de forma que se reducen las brechas, 
+se generan oportunidades equiparadas y se privilegia el acceso a la información a través de su 
+consulta de manera que se respete la identidad de la comunidad.
+Por último, el formulario de “Participa” se interpone con la participación ciudadana porque se 
+nos ofrece un canal de participación ciudadana a través de propuestas, propuestas o preocupaciones e, 
+igualmente, la mejora que nos ofrece para la democracia y la implicación de las personas en la sociedad.

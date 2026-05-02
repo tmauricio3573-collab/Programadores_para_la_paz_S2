@@ -2,7 +2,7 @@ Checklist de accesibilidad – Formulario Participa
 
 Nombre del estudiante: ANGEL MAURICIO TORRES POSADA
 Fecha: 1/MAYO/2026
-Nombre de la rama: ANGEL_MAURICIO_TORRES_POSDA
+Nombre de la rama: ANGEL_MAURICIO_TORRES_POSADA
 
 1. ¿El formulario tiene un título claro?
 Respuesta: si, ya que da un enfoque algo alucivo al tema de participacion
@@ -17,19 +17,19 @@ Respuesta:es correcto es bastante llamativo y explicativo de la informacion requ
 Respuesta: si se utilizan palabras cortas pero consisas que no conllevan ningun grade de dificultad para la comprension
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta: 
+Respuesta: Considero que esta bastaste bien aunque no pide datos innecesarios si tiene muy pocos
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: En el campo se pide minimo un parrafo de cuatro lineas pero se puede agregar mas texto para argumentar
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: si es correcto 
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: tiene un pequeño mensaje coherente con el motivo
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: cinsideo que es facil de leer para todas las edades
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: agregar unos cuantos campos mas
